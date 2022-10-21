@@ -1,6 +1,6 @@
 # Mint Notes
 
-## Live version: [Link]()
+## Live version: [Link](https://mint-notes.vercel.app/)
 
 ## Description 
 A note app made with React  
