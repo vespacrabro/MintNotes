@@ -4,9 +4,8 @@
 
 ## Description 
 A note app made with React  
-![screenshot](screenshot.png)
-![screenshot](screenshotDark.png)
-![screenshot](screenshotMobile.jpg)
+![screenshot](screenshot.jpg)
+
 
 ## Built with
 HTML5
