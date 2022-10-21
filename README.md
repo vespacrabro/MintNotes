@@ -6,6 +6,7 @@
 A note app made with React  
 ![screenshot](screenshot.png)
 ![screenshot](screenshotDark.png)
+![screenshot](screenshotMobile.jpg)
 
 ## Built with
 HTML5
