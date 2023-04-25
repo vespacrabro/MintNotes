@@ -15,7 +15,7 @@ CSS
 React
 
 ## Developer experience 
-- learned and practiced some core React concepts, such as re-renders, state management, breaking down your code into components, and pass data between React components;
+- learned and practiced some core React concepts, such as re-renders, state management, breaking down your code into components, and passing data between React components;
 - learned about unique string ID generator - Nano ID
 
 
